@@ -413,7 +413,8 @@ hr {
 .section--devices {
     margin-bottom: 40px;
     padding-bottom: 0;
-    background: url(../assets/devices-bg.jpg) center no-repeat;
+    background: url(../mogobysolex-master/assets/devices-bg.jpg) center
+        no-repeat;
     background-size: cover;
 }
 
@@ -422,13 +423,14 @@ hr {
 }
 
 .section--clients {
-    background: url(../assets/clients-bg.jpg) center no-repeat;
+    background: url(../mogobysolex-master/assets/clients-bg.jpg) center
+        no-repeat;
     background-size: cover;
 }
 
 .section--map {
     padding: 40px 0;
-    background: url(../assets/map-bg.jpg) center no-repeat;
+    background: url(../mogobysolex-master/assets/map-bg.jpg) center no-repeat;
     background-size: cover;
 }
 
