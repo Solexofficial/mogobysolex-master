@@ -150,7 +150,7 @@ hr {
 
 .intro__item--slide-2 .intro {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-        url("..../assets/Sliderbg/2.jpg") center no-repeat;
+        url("../assets/Sliderbg/2.jpg") center no-repeat;
     background-size: cover;
 }
 
@@ -499,7 +499,6 @@ hr {
     padding-bottom: 0;
     background: url(../assets/devices-bg.jpg) center no-repeat;
     background-size: cover;
-    
 }
 
 .section--gray {
