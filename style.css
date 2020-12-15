@@ -144,25 +144,25 @@ hr {
 }
 
 .intro__item--slide-1 .intro {
-    background: url("../assets/Sliderbg/intro.jpg") center no-repeat;
+    background: url("assets/Sliderbg/intro.jpg") center no-repeat;
     background-size: cover;
 }
 
 .intro__item--slide-2 .intro {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-        url("../assets/Sliderbg/2.jpg") center no-repeat;
+        url("assets/Sliderbg/2.jpg") center no-repeat;
     background-size: cover;
 }
 
 .intro__item--slide-3 .intro {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-        url("../assets/Sliderbg/3.jpg") center no-repeat;
+        url("assets/Sliderbg/3.jpg") center no-repeat;
     background-size: cover;
 }
 
 .intro__item--slide-4 .intro {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-        url("../assets/Sliderbg/4.jpg") center no-repeat;
+        url("assets/Sliderbg/4.jpg") center no-repeat;
     background-size: cover;
 }
 
@@ -171,7 +171,7 @@ hr {
     width: 100%;
     height: 100vh;
     min-height: 820px;
-    background: url(../assets/devices-bg.jpg) center no-repeat;
+    background: url(assets/devices-bg.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -497,7 +497,7 @@ hr {
 .section--devices {
     margin-bottom: 40px;
     padding-bottom: 0;
-    background: url(../assets/devices-bg.jpg) center no-repeat;
+    background: url(assets/devices-bg.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -506,13 +506,13 @@ hr {
 }
 
 .section--clients {
-    background: url(../assets/clients-bg.jpg) center no-repeat;
+    background: url(assets/clients-bg.jpg) center no-repeat;
     background-size: cover;
 }
 
 .section--map {
     padding: 40px 0;
-    background: url(../assets/map-bg.jpg) center no-repeat;
+    background: url(assets/map-bg.jpg) center no-repeat;
     background-size: cover;
 }
 
