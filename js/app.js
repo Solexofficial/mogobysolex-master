@@ -159,12 +159,3 @@ $(".slider__inner").slick({
     useTransform: false,
     useCss: false,
 });
-
-// $('.slider__inner').on('setPosition', function(event, slick){
-//     var length_slid = $('slider__inner.slick-initialized.slick-slider').length;
-//     if (length_slid <= 4) {
-//       $('.slider__inner').addClass("stop-transform");
-//     }else{
-//       $('.slider__inner').removeClass("stop-transform");
-//     }
-//   });
